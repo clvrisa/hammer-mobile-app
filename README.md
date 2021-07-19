@@ -1,1 +1,1 @@
-# hammer-mobile-app
+# hammer-project-list-app
