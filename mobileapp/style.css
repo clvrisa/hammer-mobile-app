@@ -1,0 +1,33 @@
+body
+{
+  text-align: center;
+  color: rgb(110, 106, 106);
+}
+h1, h2, h3
+{
+  padding: 10px;
+  text-shadow: 2px 2px rgba(148, 148, 148, 0.753);
+}
+.holder {
+    background-color: rgb(240, 251, 255);
+    width:500px;
+    height:650px;
+    overflow:hidden;
+    border:4px solid rgba(148, 148, 148, 0.753);
+    box-shadow: 2px 2px 2px 2px rgba(148, 148, 148, 0.753);
+    text-align: center;
+    }
+    /* make list as wide as width of all items */
+    .holder ol {
+      list-style-type:none;
+      width:6000px;
+      padding:0;
+      margin:0;
+      position:relative;
+      left:0;
+      transition:left 0.5s;
+    }
+    .holder li {
+      display:inline-block;
+      width:500px;   
+    }

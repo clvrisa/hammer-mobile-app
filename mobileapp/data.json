@@ -1,0 +1,64 @@
+[
+  { 
+  "title": "Project 1: More Javascript ",
+  "link":"google.com", 
+  "description": "This project allows you to work with JavaScript variables and control structures such as loops and conditional statements, to gain practical experience using the Repl.it IDE, and to practice validating JavaScript code.", 
+  "imagepath": "/images/project1.png"
+  },
+  { 
+  "title": "Project 2: Event + Objects", 
+  "link":"google.com",
+  "description": "This project allows you to practice coding with JavaScript events and using the components of the JavaScript language including objects and events. Learn how to create interactive experiences using logic and control structures.", 
+  "imagepath": "/images/project2.png" 
+  },
+ { 
+  "title": "Project 3: Shared Libraries", 
+  "description": "This project allows you to practice coding with JavaScript events and using the components of the JavaScript language including control structures. Learn how to create interactive experiences using logic and shared code libraries.", 
+  "imagepath": "/images/project3.png" 
+  },
+  { 
+  "title": "Project 4: Enhanced User Interfaces", 
+  "description": "This project allows you to learn to work with the two most commonly used JavaScript libraries: jQuery and jQuery UI. Learn how to enhance interactive experiences using advanced user interface elements provided by shared code libraries.", 
+  "imagepath": "/images/project4.png"
+  },
+  { 
+  "title": "Project 5: jQuery Plugin Promotional", 
+  "description": "This project allows you to learn to create jQuery plugins using object-oriented JavaScript code. Learn to research, evaluate and integrate multiple jQuery plugins to accomplish desired user experience.", 
+  "imagepath": "/images/project5.png" 
+  },
+  { 
+  "title": "Project 6: Class Map", 
+  "description": "This project allows you to begin developing enhanced user interfaces by utilizing the capabilities of interactive geographic maps with the OpenLayers or Google Maps API. Learn how the library manipulates the HTML document object model to add and modify HTML and CSS to create its map interface. Respond to user events with function-based code blocks.", 
+  "imagepath": "/images/project6.png" 
+  },
+  { 
+  "title": "Project 7: Map-Based Mobile App", 
+  "description": "This project allows you to begin working with dynamic data loaded from external JSON files, work with asynchronous events and JavaScript callback function, create mobile-ready responsive interfaces using JavaScript, HTML and CSS, respond to user events with function-based code blocks.", 
+  "imagepath": "/images/project7.png" 
+  },
+  { 
+    "title": "Project 8: Basic Data Visualization", 
+    "description": "This project allows you to begin developing data visualizations using external JSON data. Learn how JavaScript can command the browser to create visual graphics in HTML5 canvas elements.", 
+    "imagepath": "/images/project8.png" 
+  },
+  { 
+  "title": "Project 9: Advanced Visualization", 
+  "description": "This project allows you to use the D3.js to create advanced data visualizations using external JSON data.", 
+  "imagepath": "/images/project9.png" 
+  },
+  { 
+  "title": "Project 10: Basic Game", 
+  "description": "This project allows you to begin developing highly interactive user experiences using the Phaser JavaScript library. Learn how JavaScript can command the browser to create games.", 
+  "imagepath": "/images/project10.png" 
+  },
+  { 
+  "title": "Project 11: Custom Game", 
+  "description": "This project allows you to continue developing highly interactive user experiences using the Phaser JavaScript library. Practice researching and utilizing online tutorials for JavaScript development.", 
+  "imagepath": "/images/project11.png" 
+  },
+  { 
+  "title": "Project 12: Basic React Mobile App", 
+  "description": "This project allows you to create a browser-based MVC-pattern application using the React JavaScript library.", 
+  "imagepath": "/images/project12.png" 
+  }
+]
